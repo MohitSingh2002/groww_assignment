@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Groww Assignment</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="go">GO!</string>
+    <string name="please_select_a_month">Please select a month!</string>
+    <string name="month_details">Month Details</string>
+    <string name="days_of_week_are">Days of the week are:</string>
+</resources>
