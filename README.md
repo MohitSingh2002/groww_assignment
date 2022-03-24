@@ -2,6 +2,11 @@
 
 This mobile application is created using Java Android.
 
+### App Features:
+1. Shown current month dates
+2. Check any month dates by providing month and year
+3. Made a function to get week dates of a date selected, [Link](https://github.com/MohitSingh2002/groww_assignment/blob/a940e05fe1e69583201fd3f3daa19f647c967e64/app/src/main/java/com/mohitsingh/growwassignment/utils/CalendarUtil.java#L22)
+
 ### Download [APK](https://github.com/MohitSingh2002/groww_assignment/releases/download/v1.0/groww-assignment.apk)
 
 ### App Screenshots:
